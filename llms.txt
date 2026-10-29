@@ -17,6 +17,9 @@
 - [A Buyer’s Guide to Professional Research Peptides](https://local-business-guides.github.io/next-level-pharm/professional-research-peptides/): Professional research peptides: compare product details, supplier responses, and purchasing records before you choose.
 - [Research Peptides for Small Business: A Buying Guide](https://local-business-guides.github.io/next-level-pharm/research-peptides-for-small-business/): Research peptides for small business: organize product questions and purchasing checks before choosing a supplier.
 
+## Newsroom
+- [Next Level Pharm Shares Research Peptides Guide in Four Formats](https://local-business-guides.github.io/next-level-pharm/news/2026-10-29-next-level-pharm-shares-research-peptides-guide-in/): Next Level Pharm published a practical guide to research peptides this week, alongside a YouTube video, podcast episode and SoundCloud audio version. (2026-10-29)
+
 ## Pages
 - [Research Peptides](https://local-business-guides.github.io/next-level-pharm/): Get a straightforward starting point for research peptide inquiries, with a direct phone line for product questions. Call 866-680-0484.
 - [About Next Level Pharm](https://local-business-guides.github.io/next-level-pharm/about/): About Next Level Pharm.
@@ -24,3 +27,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/next-level-pharm/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/next-level-pharm/news/rss.xml)

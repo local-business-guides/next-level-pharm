@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/next-level-pharm/sitemap.xml
+Sitemap: https://local-business-guides.github.io/next-level-pharm/news-sitemap.xml
